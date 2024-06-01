@@ -1,7 +1,7 @@
-#CyberSecurity Projects 
+CyberSecurity Projects 
 
 
-#Project Title: Implement Caeser Cipher 
+1. Project Title: Implement Caeser Cipher 
 
 Objective:
 
@@ -25,7 +25,7 @@ The target audience includes students, beginners, and enthusiasts interested in 
 It can be used for educational purposes in classrooms, workshops, or self-study environments.
 
 
-#Project Title: Pixel Manipulation for Image Encryption
+2. Project Title: Pixel Manipulation for Image Encryption
 
 Objective: The tool encrypts and decrypts images using a simple pixel manipulation technique. It offers a straightforward way to enhance the security of images by altering their pixel values.
 
@@ -48,7 +48,7 @@ Support for Multiple Image Formats: Supports popular image formats such as JPEG,
 Purpose: The tool aims to provide an accessible solution for users to protect their images from unauthorized access. It serves as an educational resource for understanding basic image encryption concepts.
 
 
-#Project Title: Password Complexity Checker
+3. Project Title: Password Complexity Checker
 
 Objective: The project aims to develop a tool for assessing the strength of passwords based on various criteria such as length, presence of uppercase and lowercase letters, digits, and special characters. It provides feedback to users on the strength of their passwords and offers suggestions for improvement.
 
@@ -69,7 +69,7 @@ User Interface: Utilizes a simple command-line interface for user interaction, m
 Purpose: The purpose of the project is to help users create strong and secure passwords by providing feedback and suggestions based on password complexity criteria. It aims to promote awareness of good password practices and enhance password security.
 
 
-#Project Title: Simple Keylogger
+4. Project Title: Simple Keylogger
 
 Objective: The project aims to create a basic keylogging tool that records keystrokes and saves them to a log file. It focuses on providing users with a straightforward way to monitor keyboard activities.
 
@@ -90,7 +90,7 @@ Purpose: The purpose of the project is to provide users with a simple keylogging
 Target Audience: The target audience includes individuals and organizations interested in monitoring keyboard activities for reasons such as parental control, employee monitoring, or personal cybersecurity.
 
 
-#Project Title: Network Packet Analyzer
+5. Project Title: Network Packet Analyzer
 
 Objective: Develop a simple packet sniffing tool to capture and analyze network traffic.
 
